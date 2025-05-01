@@ -1,3 +1,29 @@
+>npm --version
+9.9.4
+>python --version
+Python 3.9.0
+>node --version
+v18.14.0
+>npm list
+shiva@ C:\Users\shiva
++-- @openzeppelin/contracts@4.9.3
++-- @truffle/contract@4.6.31
++-- crypto-js@4.2.0
++-- dotenv@16.4.7
++-- express@4.21.2
++-- git@0.1.5
++-- mongoose@7.8.6
++-- solc@0.8.21
++-- truffle@5.11.5
+`-- web3@4.16.0
+>>npm list -g
+C:\Users\shiva\AppData\Roaming\npm
++-- browserify@17.0.1
++-- ganache@7.9.1
++-- npm@9.9.4
++-- truffle@5.11.5
+`-- yarn@1.22.19
+
 Decentralized-Voting-System-Main
 The Decentralized Voting System is a secure, transparent, and modern solution for conducting elections. Built with Ethereum blockchain technology for tamper-proof voting records and FastAPI with MySQL for user management, this system allows voters to cast votes remotely while ensuring authenticity, security, and transparency. This project combines a robust backend, an intuitive frontend, and blockchain integration for a trustless voting process.
 PS: This is an active work-in-progress project, and contributions or feedback are welcome!
